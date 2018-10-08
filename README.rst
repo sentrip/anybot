@@ -13,6 +13,8 @@ Anybot API Automation
         :target: https://anybot.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
+.. image:: https://codecov.io/gh/sentrip/instatools/branch/master/graph/badge.svg
+    :target: https://codecov.io/gh/sentrip/anybot
 
 .. image:: https://pyup.io/repos/github/sentrip/anybot/shield.svg
      :target: https://pyup.io/repos/github/sentrip/anybot/
