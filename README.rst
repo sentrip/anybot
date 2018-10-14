@@ -7,7 +7,7 @@ Anybot API Automation
         :target: https://pypi.python.org/pypi/anybot
 
 .. image:: https://img.shields.io/travis/sentrip/anybot.svg
-        :target: https://travis-ci.org/sentrip/anybot
+        :target: https://travis-ci.com/sentrip/anybot
 
 .. image:: https://readthedocs.org/projects/anybot/badge/?version=latest
         :target: https://anybot.readthedocs.io/en/latest/?badge=latest
