@@ -25,19 +25,13 @@ Anybot API Automation
 Pluggable command line interface for automating online actions
 
 
-* Free software: MIT license
+* Free software: `MIT License <https://github.com/sentrip/anybot/blob/master/LICENSE>`_
 * Documentation: https://anybot.readthedocs.io.
 
 
 Features
 --------
 
-* TODO
+* One interface for writing API bots or any other type of bot
+* Utilities to simulate human actions, timing and behaviour
 
-Credits
--------
-
-This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
-
-.. _Cookiecutter: https://github.com/audreyr/cookiecutter
-.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
